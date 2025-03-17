@@ -1,7 +1,7 @@
 # Bill-of-Materials-for-PCB-Design
 # Aim
 
-To prepare the Bill of Material for the given circuit.
+To prepare the Bill of Material for the hoist tech circuit.
 
 # Software’s required
 
@@ -58,17 +58,16 @@ During the product life, components may fail needing repair or upgrade. Here the
 •	Diagnostics — Expected voltages, signal values </br>
 
 # Circuit Diagram
-
+![image](https://github.com/user-attachments/assets/b3f84daf-6aa4-4c9e-b21a-dce3d772dfba)
 
 
 
 # Output
 
-
-
+![image](https://github.com/user-attachments/assets/86cb9c7b-9ce1-41c5-9b72-37e14c66af82)
 
 
 # Result 
-Thus the bill of materials is prepared for the given PCB circuit.
+Thus the bill of materials is prepared for the hoist tech PCB circuit.
 
 
